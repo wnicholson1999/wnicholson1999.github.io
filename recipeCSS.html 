@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <body>
+  <h1>Microwave Mug Brownie </h1>
+  <img src="mug_brownie.jpg">
+  <style type="text/css">
+  
+  .Ingredients      {
+        width: 265px;
+        height: 300px;
+        border: 1px solid black;
+        background-color: CCFF99;
+        float: left;
+        margin-left: 50px;
+       }
+       
+       .Directions   {
+        width: 265px;
+        height: 300px;
+        border: 1px solid black;
+        float: right;
+        margin-left: 50px;              
+       }
+       
+    </style>
+    
+  <body> 
+  
+  <div class= "Ingredients">
+  Ingredients 
+  <ul style="list-style-type:none">
+    <li>2 tablespoon melted butter or 2 tablespoons oil</li>
+    <li>2 tablespoons water or 2 tablespoons milk</li>
+    <li>1/4 teaspoon vanilla extract</li>
+    <li>1 dash salt</li>
+    <li>2 tablespoons white sugar or more</li>
+    <li>2 tablespoons unsweetened cocoa powder</li>
+    <li>4 tablespoons flour</li>
+  </ul>
+  
+  </div>
+  
+  <div class= "Directions">
+  
+  Directions
+  <ol type="1">
+    <li>In a coffee mug, add water/milk, melted butter/oil, a dash of salt and vanilla extract. Whisk well.</li>
+    <li>Add cocoa powder, whisk well. Add sugar, whisk well. Add flour, whisk well.</li>
+    <li>Microwave for 60 seconds. Center should be slightly molten. Careful not to overcook.</li>
+    <li>Enjoy with a spoon. Careful, brownie will be hot. You can try putting a scoop of ice cream in to cool it down</li>
+  </ol>
+  
+  </div>
+  
+  <h2>Recipe from http://www.geniuskitchen.com/recipe/microwave-chocolate-mug-brownie-349246</h3>
+</body> 
+</html>
